@@ -1,0 +1,170 @@
+# Translation of Themes - Blossom Diva in Indonesian
+# This file is distributed under the same license as the Themes - Blossom Diva package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-11 00:07:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Blossom Diva\n"
+
+#. Theme Name of the theme
+msgid "Blossom Diva"
+msgstr "Blossom Diva"
+
+#. Description of the theme
+msgid "Blossom Diva is a child theme of Blossom Feminine Free WordPress theme. You can create a visually appealing, stunning and lively feminine blog without writing a single line of code using this theme. The theme can be a perfect choice for creating a gorgeous blog to share your expert tips on topics like fashion, beauty, makeup, recipe, wedding or any other creative topic. This theme features an advanced customization option with built-in customizer which allows you to customize your blog with live preview. It is a fully responsive and mobile-friendly theme which ensures your website displays correctly on every devices and screen sizes. Blossom Diva is optimized for speed and loads instantly giving your visitors the best user experience. Also, it is ultra-SEO optimized with Schema.org markup ready to help your blog rank at the top in Google and other search engine results. You can increase your social media following with the social media integration feature of this theme. Also, the strategically placed newsletter section helps you increase your newsletter subscriber. This theme is fully compatible with the popular WooCommerce plugin and allows you to create an online shop and sell your products using Blossom Diva free WordPress theme. Furthermore, it is backed up by a quick, responsive and friendly support team to help you solve any issues you get while creating a website with this theme. If you get any issue or have any questions related to the theme, you can always contact the friendly support team. Check demo: https://demo.blossomthemes.com/blossom-diva, read documentation: https://docs.blossomthemes.com/docs/blossom-diva/, and get support: https://blossomthemes.com/support-ticket/."
+msgstr "Blossom Diva adalah tema turunan dari tema WordPress Blossom Feminine. Anda dapat membuat blog feminin yang menarik secara visual, menakjubkan, dan hidup tanpa menulis satu baris kode menggunakan tema ini. Tema ini bisa menjadi pilihan sempurna untuk membuat blog yang indah untuk berbagi kiat keahlian Anda di bidang fashion, kecantikan, make-up, resep, pernikahan, atau topik kreatif lainnya. Tema ini menampilkan opsi penyesuaian lanjutan dengan pengaturan bawaan yang memungkinkan Anda untuk menyesuaikan blog Anda dengan pratinjau langsung. Ini adalah tema yang sepenuhnya responsif dan mobile-friendly yang memastikan situs web Anda ditampilkan dengan baik di setiap perangkat dan ukuran layar. Blossom Diva dioptimalkan untuk kecepatan dan pemuatan instan yang memberi pengunjung Anda user experience terbaik. Selain itu, SEO tema ini sangat dioptimalkan dengan markup Schema.org siap membantu rangking blog Anda di posisi atas di Google dan hasil mesin pencari lainnya. Anda dapat meningkatkan pengikut media sosial Anda dengan fitur integrasi media sosial dari tema ini. Juga, bagian newsletter yang ditempatkan secara strategis membantu Anda meningkatkan pelanggan newsletter Anda. Tema ini sepenuhnya kompatibel dengan plugin WooCommerce yang populer dan memungkinkan Anda untuk membuat shop online dan menjual produk Anda menggunakan tema WordPress gratis Blossom Diva. Selain itu, didukung oleh tim layanan bantuan yang cepat, responsif dan ramah untuk membantu Anda memecahkan masalah yang Anda dapatkan saat membuat situs web dengan tema ini. Jika Anda mendapatkan masalah atau memiliki pertanyaan apa pun terkait tema, Anda selalu dapat menghubungi tim layanan bantuan yang ramah. Cek demo: https://demo.blossomthemes.com/blossom-diva, baca dokumentasi: https://docs.blossomthemes.com/docs/blossom-diva/, dan dapatkan bantuan: https://blossomthemes.com/support-ticket/."
+
+#: functions.php:358 functions.php:616
+msgid "FOLLOW"
+msgstr "IKUTI"
+
+#: functions.php:1004
+msgid " Blossom Themes"
+msgstr " Blossom Themes"
+
+#: functions.php:1003
+msgid " Blossom Diva | Developed By "
+msgstr " Blossom Diva | Diciptakan Oleh"
+
+#: functions.php:107
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Tautan Dokumentasi: %1$sKlik di sini.%2$s"
+
+#: functions.php:105
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Tautan Demo: %1$sKlik di sini.%2$s"
+
+#: functions.php:92
+msgid "Demo & Documentation"
+msgstr "Demo & Dokumentasi"
+
+#: functions.php:232
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: functions.php:125
+msgid "Appearance Settings"
+msgstr "Pengaturan Tampilan"
+
+#: functions.php:199
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: functions.php:1006
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: functions.php:1006
+msgid " Powered by %s"
+msgstr "Ditenagai oleh %s"
+
+#: functions.php:533
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: functions.php:134
+msgid "Typography"
+msgstr "Tipografi"
+
+#: functions.php:233
+msgid "Primary color of the theme."
+msgstr "Warna primer tema."
+
+#: functions.php:386
+msgid "Read More Text"
+msgstr "Teks Baca Selengkapnya"
+
+#: functions.php:200
+msgid "Change the font size of your site."
+msgstr "Ubah ukuran font judul situs Anda."
+
+#: functions.php:177
+msgid "Secondary font of the site."
+msgstr "Font sekunder situs."
+
+#: functions.php:176
+msgid "Secondary Font"
+msgstr "Font Sekunder"
+
+#: functions.php:155
+msgid "Primary font of the site."
+msgstr "Font utama situs."
+
+#: functions.php:154
+msgid "Primary Font"
+msgstr "Font Utama"
+
+#: functions.php:643
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:642
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:641
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:126
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Sesuaikan Tipografi, Gambar Header & Gambar Latar Belakang"
+
+#: functions.php:375 functions.php:582
+msgid "CONTINUE READING"
+msgstr "LANJUT BACA"
+
+#: functions.php:244
+msgid "Layout Settings"
+msgstr "Pengaturan Layout"
+
+#: functions.php:366
+msgid "Instagram Section Title"
+msgstr "Judul Bagian Instagram"
+
+#: functions.php:345
+msgid "This is the layout for homepage."
+msgstr "Layout untuk halaman beranda."
+
+#: functions.php:323 functions.php:344
+msgid "Home Page Layout"
+msgstr "Layout Halaman Beranda"
+
+#: functions.php:310
+msgid "Choose the layout of the slider for your site."
+msgstr "Pilih layout untuk slider situs Anda."
+
+#: functions.php:288 functions.php:309
+msgid "Slider Layout"
+msgstr "Layout Slider"
+
+#: functions.php:275
+msgid "This is the layout for header."
+msgstr "Layout untuk header."
+
+#: functions.php:253 functions.php:274
+msgid "Header Layout"
+msgstr "Layout Header"
+
+#. Author of the theme
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/themes/blossom-diva-free-wordpress-theme"
+msgstr "https://blossomthemes.com/themes/blossom-diva-free-wordpress-theme"

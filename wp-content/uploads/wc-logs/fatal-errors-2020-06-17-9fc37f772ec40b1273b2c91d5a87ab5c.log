@@ -1,0 +1,24 @@
+2020-06-17T11:29:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Loader.php pada baris 20
+
+2020-06-17T11:29:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\themes\astra\inc\customizer\class-astra-fonts.php pada baris 13
+
+2020-06-17T11:30:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\woocommerce-services\classes\class-wc-connect-label-reports.php pada baris 3
+
+2020-06-17T11:32:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\admin\abstract-sv-wc-plugin-admin-setup-wizard.php pada baris 26
+
+2020-06-17T11:32:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\facebook-for-woocommerce\facebook-commerce.php pada baris 15
+
+2020-06-17T11:32:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\profile-builder\features\login-widget\login-widget.php pada baris 2
+
+2020-06-17T11:32:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\profile-builder\features\login-widget\login-widget.php pada baris 2
+
+2020-06-17T16:02:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-includes\Requests\Transport\cURL.php pada baris 463
+
+2020-06-17T19:02:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\woocommerce\packages\action-scheduler\classes\schedules\ActionScheduler_Schedule.php pada baris 6
+
+2020-06-17T19:02:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\wpforms-lite\includes\class-fields.php pada baris 78
+
+2020-06-17T19:02:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\elementor\includes\autoloader.php pada baris 267
+
+2020-06-17T19:02:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\morayya\wp-content\plugins\elementor\includes\widgets\icon-box.php pada baris 4
+
